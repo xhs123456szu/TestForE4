@@ -2,5 +2,5 @@
 using namespace std;
 int main()
 {
-	cout<<"ABCDEFG--HIJKLMN--OPQRST"<<endl;
+	cout<<"ABCDEFG--HIJKLMN--OPQRST--UVWXYZ"<<endl;
 } 
